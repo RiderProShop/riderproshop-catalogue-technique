@@ -1,0 +1,894 @@
+[
+  {
+    "products": [
+      {
+        "id": 1,
+        "slug": "flee-prm-6-300w-mini-moto-electrique-pour-enfant",
+        "name": "Flee PRM 6 300W - Mini Moto Électrique pour Enfant",
+        "price": 307.5,
+        "description_short": "<p>Découvrez la Flee PRM 6 300W, la mini moto électrique parfaite pour les enfants ! Conçue pour offrir une expérience de conduite sûre et amusante, cette moto électrique est idéale pour les jeunes aventuriers.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 2,
+        "slug": "casque-de-moto-enfant",
+        "name": "ROAD BRO V2 Brillant - Casque de Moto Enfant",
+        "price": 54.083333,
+        "description_short": "<h2>Découvrez le Casque de Moto Enfant KIMO ROAD BRO V2</h2>\n<p>Le KIMO ROAD BRO V2 est un casque de moto enfant conçu pour offrir style, sécurité et confort. Avec son design moderne et ses fonctionnalités avancées, ce casque est idéal pour les jeunes pilotes passionnés de cross et de sport. Certifié ECE R22-06, il garantit une protection optimale pour les enfants lors de leurs aventures à moto.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 3,
+        "slug": "road-bro-sport-casque-cross-enfant",
+        "name": "ROAD BRO Sport Casque Cross Enfant",
+        "price": 54.083333,
+        "description_short": "<h2>Découvrez le Casque Cross Enfant ROAD BRO Sport</h2>\n<p>Le Casque Cross Enfant ROAD BRO Sport est conçu pour les jeunes passionnés de motocross. Avec son design moderne et ses fonctionnalités avancées, il offre une protection optimale tout en garantissant un style unique sur les pistes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 4,
+        "slug": "bro-sport-casque-moto-cross",
+        "name": "Bro Sport - Casque Moto Cross",
+        "price": 45.75,
+        "description_short": "<h2>Découvrez le Bro Sport : Le Casque Moto Cross Ultime</h2>\n<p>Le Bro Sport est bien plus qu’un simple casque moto cross. Avec son design sportif et ses finitions bleues, il allie style et performance pour les jeunes passionnés de motocross. Que vous soyez un débutant ou un pilote expérimenté, ce casque saura vous accompagner avec élégance et sécurité sur les pistes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 5,
+        "slug": "ds67-49cc-mini-moto-cross",
+        "name": "DS67 49cc - Mini Moto Cross",
+        "price": 199.166667,
+        "description_short": "<h2>Découvrez la DS67 49cc, la Mini Moto Cross idéale pour les jeunes pilotes</h2>\n<p>La DS67 49cc de Nitro Motors est une Mini Moto Cross conçue pour offrir une expérience de conduite amusante et sécurisée aux jeunes pilotes. Équipée d'un moteur 2 temps de 49cc refroidi par air, cette mini moto développe une puissance de 1,8 kW, permettant d'atteindre une vitesse maximale d'environ 50 km/h. Avec son design compact et ses caractéristiques techniques avancées, elle est parfaite pour les enfants qui souhaitent s'initier au monde du motocross.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 6,
+        "slug": "casque-cross-bro-mate",
+        "name": "Casque Cross Bro Mate",
+        "price": 41.583333,
+        "description_short": "<h2>Découvrez le Casque Cross Bro Mate : Style et Performance</h2>\n<p>Le Casque Cross Bro Mate est bien plus qu’un simple équipement de protection. Avec son design épuré et ses finitions mates, il allie style et fonctionnalité pour les amateurs de motocross. Disponible en plusieurs couleurs – noir, bleu, rouge, orange, vert et blanc – ce casque s’adapte à tous les goûts et à toutes les tenues. Sa version mate lui confère une allure moderne et élégante, parfaite pour les pilotes soucieux de leur look sur la piste.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 7,
+        "slug": "bro-sport-v2-mate-casque-de-quad",
+        "name": "Bro Sport V2 Mate - Casque de Quad",
+        "price": 45.75,
+        "description_short": "<h2>Découvrez le Casque de Quad BRO V2 Sport Mate : Performance et Sécurité</h2>\n<p>Le casque de quad BRO V2 Sport Mate est conçu pour les passionnés de quad qui recherchent un équilibre parfait entre style, confort et sécurité. Homologué ECE R22-06, ce casque répond aux normes les plus strictes en matière de protection, garantissant une utilisation sûre sur tous les terrains. Que vous soyez un débutant ou un pilote expérimenté, ce casque de quad est votre allié idéal pour des aventures en plein air.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 8,
+        "slug": "casque-moto-pour-enfant",
+        "name": "Casque Moto pour Enfant",
+        "price": 29.083333,
+        "description_short": "<h2>Casque Moto pour Enfant : Sécurité et Style pour les Jeunes Pilotes</h2>\n<p>Offrez à votre enfant une protection optimale tout en affichant un look tendance avec notre <strong>Casque Moto pour Enfant</strong>. Ce modèle intégral allie design moderne et fonctionnalités essentielles pour garantir une expérience de conduite sécurisée et agréable. Disponible en plusieurs couleurs, dont le bleu, le noir et l'orange, ce casque s'adapte à tous les goûts et styles.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 9,
+        "slug": "casque-enfant-cross",
+        "name": "Casque Enfant Cross",
+        "price": 37.416667,
+        "description_short": "<h2>Casque enfant cross : Sécurité et Style pour les Jeunes Pilotes</h2>\n<p>Le casque enfant cross Kimo est bien plus qu'un simple équipement de protection. Conçu spécialement pour les jeunes passionnés de motocross, il allie style moderne et sécurité optimale. Disponible en plusieurs couleurs tendance comme le noir mat, bleu, vert, rouge, orange, gris et blanc, ce casque s'adapte à tous les goûts et personnalités. Que votre enfant soit un débutant ou un pilote confirmé, ce casque enfant cross est un choix parfait pour allier performance et look.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 10,
+        "slug": "protection-dorsale-enfant-pour-quad-et-moto",
+        "name": "Protection Dorsale Enfant Pour Quad et Moto",
+        "price": 24.916667,
+        "description_short": "<h2>Protégez Votre Enfant avec la Meilleure Protection Dorsale Enfant Pour Quad et Moto</h2>\n<p>La sécurité de votre enfant est une priorité absolue lorsqu'il s'agit de pratiquer des sports motorisés comme le quad ou la moto. La Protection Dorsale Enfant Pour Quad et Moto de KIMO® est spécialement conçue pour offrir une protection optimale tout en garantissant un confort maximal.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 11,
+        "slug": "bottes-enfant-pour-moto-cross-et-quad",
+        "name": "Bottes Enfant pour Moto Cross et Quad",
+        "price": 66.583333,
+        "description_short": "<h2>Optez pour des Bottes Enfant pour Moto Cross et Quad de Haute Qualité</h2>\n<p>Les Bottes Enfant pour Moto Cross et Quad KIMO Kinderstiefel Protect Boots sont conçues pour offrir une protection et un confort optimaux aux jeunes pilotes. Fabriquées avec des matériaux robustes et une membrane Drytech imperméable, ces bottes garantissent une performance exceptionnelle dans toutes les conditions météorologiques. Chaque détail de ces bottes est pensé pour résister aux rigueurs du terrain, assurant ainsi une durabilité et une résistance accrues.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 12,
+        "slug": "protege-cou-pour-enfants",
+        "name": "Protège-cou pour Enfants",
+        "price": 12.416667,
+        "description_short": "<h2>Protège-cou Moto Quad : Sécurité et Confort pour les Enfants</h2>\n<p>Offrez à vos enfants une protection optimale avec notre Protège-cou Moto Quad. Conçu spécialement pour les jeunes pilotes, ce protège-cou allie sécurité et confort pour des sessions de moto ou quad en toute sérénité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 13,
+        "slug": "veste-enfant-pour-moto-et-quad",
+        "name": "Veste Enfant pour Moto et Quad",
+        "price": 33.25,
+        "description_short": "<h2>Choisissez la Veste Enfant Moto Quad parfaite pour les jeunes aventuriers</h2>\n<p>La sécurité et le style se rencontrent dans la Veste Enfant Moto Quad, conçue spécialement pour les jeunes passionnés de moto et de quad. Fabriquée par Moteurs Nitro, cette veste allie des matériaux de haute qualité à un design moderne, offrant une protection optimale sans compromettre le confort. Disponible en plusieurs couleurs attrayantes comme le noir, le rouge, l'orange, le bleu et le rose, elle s'adapte à tous les goûts et styles.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 14,
+        "slug": "pantalon-impermeable-enfant-pour-moto-cross-et-quad",
+        "name": "Pantalon Imperméable Enfant pour Moto Cross et Quad",
+        "price": 37.416667,
+        "description_short": "<h2>Pantalon Enfant Moto Cross et Quad : Style et Performance</h2>\n<p>Le Pantalon Enfant Moto Cross et Quad NITRO Race Team est conçu pour les jeunes passionnés de sports mécaniques. Avec son design moderne et ses couleurs vives comme l'orange, le vert, le bleu, le rouge et le noir, ce pantalon ne passe pas inaperçu sur les pistes. Les matériaux solides et les finitions de haute qualité, comme les fermetures éclair YKK et les boutons-pression, garantissent une durabilité exceptionnelle, même dans les conditions les plus exigeantes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 15,
+        "slug": "veste-enfant-cordura-racing-pour-moto-cross-et-quad",
+        "name": "Veste Enfant Cordura Racing pour Moto Cross et Quad",
+        "price": 38.25,
+        "description_short": "<h2>Veste Enfant pour Moto Cross et Quad : Un Style Inspiré de la Piste</h2>\n<p>La Veste Enfant pour Moto Cross et Quad Cordura Racing est bien plus qu'un simple vêtement de protection. C'est une déclaration de style inspirée des plus grandes compétitions de moto cross et de quad. Avec son design sportif et ses couleurs vives comme l'orange, le rouge, le vert et le bleu, cette veste ne passe jamais inaperçue. Fabriquée en CORDURA, un matériau réputé pour sa résistance et sa durabilité, elle est conçue pour résister aux conditions les plus extrêmes tout en offrant une allure dynamique et moderne.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 16,
+        "slug": "gants-enfants-pour-moto-cross-et-quad",
+        "name": "Gants Enfants pour Moto Cross et Quad",
+        "price": 16.583333,
+        "description_short": "<h2>Protégez vos petits champions avec nos Gants Enfants pour Moto Cross et Quad</h2>\n<p>Chez Rider Pro Shop, nous savons que la sécurité de vos enfants est votre priorité lorsqu'ils pratiquent des sports extrêmes comme le moto cross ou le quad. C'est pourquoi nous avons sélectionné ces gants NITRO spécialement conçus pour offrir une protection optimale tout en garantissant un confort maximal.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 17,
+        "slug": "apollo-fun-49cc-pocket-bike-cross",
+        "name": "Apollo Fun 49cc - Pocket Bike Cross",
+        "price": 224.916667,
+        "description_short": "<h2>Apollo Fun 49cc : Le Pocket Bike Cross par excellence</h2>\n<div class=\"row-product\"></div>\n<p>L'Apollo Fun 49cc est bien plus qu'un simple Pocket Bike Cross, c'est une véritable expérience de conduite. Avec son design moderne et ses finitions soignées, ce modèle signé Nitro Motors allie performance et élégance. Disponible en plusieurs couleurs (orange, rouge, vert, bleu, noir), il s'adapte à tous les goûts et styles.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 18,
+        "slug": "fossa-fun-49cc-mini-bike",
+        "name": "Fossa Fun 49cc - Mini Bike",
+        "price": 291.583333,
+        "description_short": "<h2>La Fossa Fun 49cc : La Mini Bike Parfaite pour les Aventuriers</h2>\n<p>La Fossa Fun 49cc de Nitro Motors est bien plus qu'une simple mini bike. Avec son design élégant et ses couleurs vibrantes, elle attire l'œil dès le premier regard. Disponible en orange, rouge, vert et bleu, cette mini bike s'adapte à tous les goûts. Son cadre et ses jantes peints ajoutent une touche de sophistication, tandis que son poids léger de seulement 23 kg en fait un choix idéal pour les jeunes pilotes ou ceux qui cherchent à s'amuser sur des terrains variés.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 19,
+        "slug": "flash-fun-49cc-mini-mx",
+        "name": "Flash Fun 49cc - Mini MX",
+        "price": 249.916667,
+        "description_short": "<h2>Le Flash Fun 49cc : Un Mini MX au Style Inimitable</h2>\n<p>Le Flash Fun 49cc est bien plus qu'un simple Mini MX. Avec son design moderne et ses finitions soignées, il se démarque par son cadre et ses jantes laqués, disponibles en plusieurs couleurs vives comme l'orange, le rouge, le vert ou le bleu. Chaque détail, du garde-chaîne au réservoir, est conçu pour offrir une esthétique qui attire les regards, tout en restant fonctionnel. Ce Mini MX est idéal pour les jeunes pilotes qui veulent s'initier au dirt bike avec style.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 20,
+        "slug": "serval-prm-49cc-mini-moto-50cc",
+        "name": "Serval PRM 49cc - Mini Moto 50cc",
+        "price": 258.25,
+        "description_short": "<h2>Le Style Incomparable de la Mini Moto 50cc Serval PRM</h2>\n<p>La Serval PRM 49cc est une mini moto 50cc qui se distingue par son design élégant et moderne. Avec son cadre et ses jantes peints, elle ne passe pas inaperçue. Disponible en plusieurs couleurs vibrantes comme le bleu, l'orange, le vert et le rouge, cette mini moto 50cc s'adapte à tous les goûts et styles. Le cadre en tube d'acier massif et renforcé garantit non seulement une esthétique robuste, mais aussi une durabilité exceptionnelle.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 21,
+        "slug": "gepard-dlx-49cc-pocket-cross",
+        "name": "Gepard DLX 49cc - pocket cross",
+        "price": 299.916667,
+        "description_short": "<h2>Performance et Style : Le Gepard DLX 49cc Pocket Cross</h2>\n<p>Le Gepard DLX 49cc est bien plus qu’un simple <strong>pocket cross</strong>. Avec son design élégant et ses finitions haut de gamme, il se distingue par son style unique. Le cadre en acier massif et peint, ainsi que la selle confortable, offrent une allure sportive et robuste. Ce <strong>pocket cross</strong> est idéal pour les jeunes pilotes qui cherchent à combiner performance et esthétique.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 22,
+        "slug": "storm-v3-brx-14-12-manuel-a-4-vitesses-dirt-bike-125cc",
+        "name": "Storm V3 BRX 14/12 Manuel à 4 vitesses - Dirt Bike 125cc",
+        "price": 749.916667,
+        "description_short": "<h2>Explorez le Storm V3 BRX : Le dirt bike 125cc ultime pour les amateurs de sensations fortes</h2>\n<p>Le Storm V3 BRX est bien plus qu’un simple dirt bike 125cc. Avec son design sportif et ses finitions haut de gamme, il incarne le parfait équilibre entre performance et style. Doté d’un cadre en acier renforcé et d’un garde-boue avant élégant, ce modèle ne passe jamais inaperçu sur les pistes. Les coloris disponibles – orange, rouge, vert et bleu – permettent d’exprimer votre personnalité tout en affichant un look dynamique et moderne.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 23,
+        "slug": "chilly-urx-125-dirt",
+        "name": "Chilly URX 125 Dirt",
+        "price": 849.166667,
+        "description_short": "<h2>Chilly URX 125 dirt : Style et Performance</h2>\n<p>Le Chilly URX 125 dirt est bien plus qu'une simple moto pour enfants. Avec son cadre en acier chromé robuste soudé par robot, il allie solidité et esthétique. Son design moderne et ses couleurs vives – rouge, bleu, orange ou vert – en font un véritable atout visuel sur les pistes. Conçu pour les jeunes pilotes, ce modèle combine style et performance, tout en garantissant une sécurité optimale grâce à ses composants de haute qualité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 24,
+        "slug": "storm-v3-brx-110cc14-12-dirt-bike-110cc",
+        "name": "Storm V3 BRX  110cc 14/12 - dirt bike 110cc",
+        "price": 749.916667,
+        "description_short": "<h2>Storm V3 BRX : La dirt bike 110cc Ultime pour les Jeunes Pilotes</h2>\n<p>Le Storm V3 BRX de Nitro Motors est bien plus qu’une simple dirt bike 110cc. Conçu pour les jeunes passionnés de motocross, ce modèle allie performance, sécurité et design moderne. Avec ses lignes épurées et ses finitions soignées, cette dirt bike attire immédiatement l’œil, tout en promettant des sensations fortes sur les terrains les plus exigeants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 25,
+        "slug": "storm-v3-brx-110cc-12-10-dirt-110cc",
+        "name": "Storm V3 BRX 110cc 12/10 - Dirt 110cc",
+        "price": 749.916667,
+        "description_short": "<h2>Le Storm V3 BRX 12/10 : Le dirt 110cc parfait pour les jeunes pilotes</h2>\n<p>Le Storm V3 BRX 12/10 de Nitro Motors est un dirt 110cc conçu pour les jeunes passionnés de motocross. Avec son design sportif et ses caractéristiques techniques avancées, cette moto tout-terrain promet des sensations fortes et une expérience de conduite inégalée.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 26,
+        "slug": "hurricane-brx-v3-19-16-150cc-dirt-150cc",
+        "name": "Hurricane BRX V3 19/16 150cc - Dirt 150cc",
+        "price": 1249.166667,
+        "description_short": "<h2>Hurricane BRX V3 : Le Dirt 150cc Ultime pour les Aventuriers</h2>\n<p>Le Hurricane BRX V3 est bien plus qu'un simple dirt bike 150cc. C'est une machine conçue pour les passionnés de sensations fortes et les amateurs de performances. Avec son design distinctif et ses caractéristiques techniques avancées, ce modèle de Nitro Motors se démarque dans le monde des motos tout-terrain. Que vous soyez un débutant ou un pilote expérimenté, ce Dirt 150cc saura répondre à vos attentes les plus exigeantes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 27,
+        "slug": "hurricane-brx-v3-19-16-250cc-dirt-bike-250cc",
+        "name": "Hurricane BRX V3 19/16 250cc - Dirt Bike 250cc",
+        "price": 1665.833333,
+        "description_short": "<h2>Hurricane BRX V3 19/16 : Le Dirt Bike 250cc Ultime pour les Amateurs de Sensations</h2>\n<p>Le Hurricane BRX V3 19/16 est un Dirt Bike 250cc conçu pour les passionnés de sports extrêmes. Avec son design moderne et ses performances exceptionnelles, ce modèle de Nitro Motors se distingue par son style et sa puissance. Que vous soyez un débutant ou un pilote expérimenté, ce Dirt Bike 250cc est prêt à vous offrir une expérience de conduite inoubliable.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 28,
+        "slug": "tornado-brx-v3-21-18-moto-cross-250cc",
+        "name": "Tornado BRX V3 21/18 - Moto Cross 250cc",
+        "price": 1632.5,
+        "description_short": "<h2>Tornado BRX V3 21/18 : La Moto Cross 250cc Ultime pour les Passionnés</h2>\n<p>Le Tornado BRX V3 21/18 de Nitro Motors est bien plus qu'une simple moto cross 250cc. C'est une machine conçue pour les pilotes exigeants, alliant style, performance et fiabilité. Avec son design moderne et ses caractéristiques techniques avancées, cette moto cross 250cc se distingue comme un choix incontournable pour ceux qui recherchent une expérience de conduite hors pair sur les terrains les plus exigeants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 29,
+        "slug": "hurricane-urx-19-16-150cc-moto-cross-150cc",
+        "name": "Hurricane URX 19/16 150cc - Moto Cross 150cc",
+        "price": 1240.833333,
+        "description_short": "<h2>Hurricane URX 19/16 : La Moto Cross 150cc Ultime</h2>\n<p>La Hurricane URX 19/16 de Nitro Motors est une référence incontournable dans le monde de la Moto Cross 150cc. Conçue pour les passionnés de sensations fortes, cette dirtbike allie performance, robustesse et design moderne. Son châssis en acier chromé et sa suspension avancée en font un choix idéal pour les terrains les plus exigeants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 30,
+        "slug": "rocket-49cc-vx-6-sport-2-pocket-bike-moto",
+        "name": "Rocket 49cc VX 6\" Sport 2 - Pocket Bike Moto",
+        "price": 249.916667,
+        "description_short": "<h2>La Pocket Bike Moto Rocket 49cc VX 6\" Sport 2 : Performance et Style</h2>\n<p>La Rocket 49cc VX 6\" Sport 2 est une pocket bike moto conçue pour les amateurs de sensations fortes et de design sportif. Avec son moteur 2-temps de 49cc, cette mini-moto allie puissance et légèreté, offrant une expérience de conduite dynamique et agile. Son design compact et ses lignes épurées en font un véritable bijou de technologie et d’esthétisme.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 31,
+        "slug": "ps77-49cc-pocket-bike-50cc",
+        "name": "PS77 49cc - Pocket Bike 50cc",
+        "price": 241.583333,
+        "description_short": "<h2>PS77 49cc : La Pocket Bike 50cc Parfaite pour les Amateurs de Course</h2>\n<p>Le PS77 49cc de Nitro Motors est une Pocket Bike 50cc conçue pour les passionnés de vitesse et de sensations fortes. Avec son design compact et ses performances impressionnantes, cette mini-moto est idéale pour les courses sur piste ou les sessions de pilotage intensives. Son moteur 2 temps refroidi par air de 49cc développe une puissance de 1,8 kW, permettant d'atteindre une vitesse maximale d'environ 45 km/h. Parfait pour les pilotes débutants ou expérimentés, ce modèle allie performance et maniabilité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 32,
+        "slug": "velocifero-enduro-bike-12-10-1000w-60v-lithium-moto-electrique-enfant",
+        "name": "Velocifero Enduro Bike 12/10 1000W 60V Lithium -  moto électrique enfant",
+        "price": 1440.833333,
+        "description_short": "<h2>Velocifero Enduro Bike 12/10 : La moto électrique enfant ultime pour les jeunes aventuriers</h2>\n<p>Le Velocifero Enduro Bike 12/10 est bien plus qu'une simple moto électrique enfant. Conçue pour offrir une expérience de conduite inégalée, cette moto allie performance, sécurité et design moderne. Avec son moteur électrique puissant de 1000W et sa batterie lithium de 60V, elle promet des heures de plaisir et d'aventure pour les jeunes pilotes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 33,
+        "slug": "tiger-vx-dlx-14-1600w-48v-lithium-dirt-bike-electrique",
+        "name": "Tiger VX DLX 14\" 1600W 48V Lithium dirt bike électrique",
+        "price": 1040.833333,
+        "description_short": "<h2>Découvrez la révolution des dirt bikes électriques avec la Tiger VX DLX 14\"</h2>\n<p>La Tiger VX DLX 14\" est bien plus qu'un simple dirt bike électrique. C'est une véritable prouesse technologique qui allie performance, durabilité et design moderne. Conçue par Nitro Motors, cette machine est idéale pour les amateurs de sensations fortes qui souhaitent explorer les terrains les plus exigeants tout en respectant l'environnement.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 34,
+        "slug": "tiger-vx-dlx-12-1000w-36v-lithium-moto-electrique-pour-ado",
+        "name": "Tiger VX DLX 12\" 1600W 48V Lithium - moto electrique pour ado",
+        "price": 907.5,
+        "description_short": "<h2>La Tiger VX DLX 12\" : Performance et style inégalés</h2>\n<p>La Tiger VX DLX 12\" de Nitro Motors est bien plus qu'une simple moto électrique pour ado. Alliant performance et style inégalés, elle est conçue pour offrir une expérience de conduite unique et excitante. Avec son design robuste et ses caractéristiques techniques avancées, cette moto électrique pour ado est parfaite pour les jeunes passionnés de sensations fortes et de technologie.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 35,
+        "slug": "serval-vx-1600w-48v15ah-14-12-moto-electrique-pour-enfant",
+        "name": "Serval VX 1600W 48V15Ah 14/12\" - moto électrique pour enfant",
+        "price": 999.166667,
+        "description_short": "<h2>La moto électrique pour enfant Serval VX 1600W conçue pour dominer tous les terrains</h2>\n<p>La Serval VX 1600W de Nitro Motors est bien plus qu'une simple moto électrique pour enfant. C'est un véritable concentré de technologie et de performance, pensé pour offrir une expérience de conduite inégalée. Avec son moteur électrique de 1600W, capable d'atteindre une puissance maximale de 2000W, cette moto électrique pour enfant est prête à relever tous les défis.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 36,
+        "slug": "serval-prm-10-500w-moto-cross-electrique-enfant",
+        "name": "Serval PRM 10\" 500W - Moto Cross électrique enfant",
+        "price": 390.833333,
+        "description_short": "<h2>Explorez la performance ultime avec la moto cross électrique enfant Serval PRM 10\" W500</h2>\n<p>La Serval PRM 10\" W500 est bien plus qu'une simple moto cross électrique enfant. Conçue par Nitro Motors, cette mini dirtbike allie performance, durabilité et design moderne, offrant une expérience de conduite inégalée pour les jeunes pilotes. Avec ses caractéristiques techniques avancées et son style épuré, elle est idéale pour les enfants passionnés par le monde de la moto cross.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 37,
+        "slug": "cooba-prm-6-quad-electrique-1000w",
+        "name": "Cooba PRM 6\" - quad électrique 1000W",
+        "price": 608.25,
+        "description_short": "<h2>Performance, sécurité et plaisir réunis dans le quad électrique 1000W Cooba PRM 6\"</h2>\n<p>Le Cooba PRM 6\" 1000W est bien plus qu'un simple quad électrique 1000W : c'est une promesse de performance, de sécurité et de plaisir pour les jeunes aventuriers. Conçu par Nitro Motors, ce modèle allie des fonctionnalités avancées à un design moderne, garantissant une expérience de conduite inégalée. Découvrez pourquoi ce quad électrique 1000W est le choix idéal pour les enfants et les adolescents.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 38,
+        "slug": "tricia-300cc-platin-homologue-quad-300cc-homologue",
+        "name": "Tricia 300cc Platin Homologué - quad 300cc homologué",
+        "price": 3916.583333,
+        "description_short": "<h2>L’alliance parfaite entre puissance et design avec le Quad 300cc Homologué Tricia 300cc Platin</h2>\n<p>Le Tricia 300cc Platin est bien plus qu'un simple quad 300cc homologué. Ce modèle signé Nitro Motors allie performance, confort et sécurité pour offrir une expérience de conduite inégalée. Avec son moteur 4 temps de 300cc, ce quad est conçu pour les amateurs de sensations fortes tout en garantissant une utilisation conforme aux normes européennes grâce à sa certification T3B EEC.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 39,
+        "slug": "cooba-rg-7-prm-7-quad-125cc-atv",
+        "name": "Cooba RG-7 PRM 7\" - quad 125cc atv",
+        "price": 949.166667,
+        "description_short": "<h2>Pour les vrais passionnés : découvrez le quad 125cc ATV Cooba RG-7 PRM 7\" exclusif</h2>\n<p>Le Cooba RG-7 PRM 7\" est bien plus qu'un simple quad 125cc ATV. Ce modèle exclusif de Nitro Motors est conçu pour offrir une expérience de conduite inégalée, alliant performance, sécurité et design moderne. Avec son moteur 4 temps de 125cc refroidi par air, ce quad 125cc ATV promet une puissance de 6kW, capable de vous propulser jusqu'à 55 km/h. Que vous soyez un amateur de sensations fortes ou un passionné de balades en pleine nature, ce quad est fait pour vous.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 40,
+        "slug": "arizona-e-start-quad-110cc",
+        "name": "Arizona E-Start - Quad 110cc",
+        "price": 833.25,
+        "description_short": "<h2>L'Arizona E-Start : Le quad 110cc parfait pour les jeunes aventuriers</h2>\n<p>Découvrez l'Arizona E-Start, le quad 110cc idéal pour les jeunes passionnés de sensations fortes. Ce modèle signé Nitro Motors allie performance, style et sécurité, offrant une expérience de conduite inégalée pour les enfants et adolescents. Équipé de fonctionnalités modernes et d'un design attrayant, ce quad 110cc est le compagnon parfait pour des aventures en plein air.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 41,
+        "slug": "rugby-rs8-3g-platin-150cc-quad-enfant-thermique-150-cc",
+        "name": "Rugby RS8-3G Platin 150cc - quad enfant thermique 150 cc",
+        "price": 1224.166667,
+        "description_short": "<h2>Explorez de nouveaux horizons avec le Quad Rugby RS8-3G Platin 150cc, le quad enfant thermique 150 cc parfait pour les jeunes aventuriers</h2>\n<p>Le Quad Rugby RS8-3G Platin 150cc est bien plus qu'un simple jouet. Ce quad enfant thermique 150 cc est conçu pour offrir une expérience de conduite sécurisée et excitante aux jeunes passionnés de sports mécaniques. Avec son moteur 150cc 4 temps, ce quad enfant thermique 150 cc est idéal pour les enfants qui souhaitent découvrir les sensations de la conduite tout-terrain tout en bénéficiant d'une sécurité optimale.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 42,
+        "slug": "rizzo-rs7-3g-platin-125cc-quad-enfant-thermique-125-cc",
+        "name": "Rizzo RS7-3G Platin 125cc - quad enfant thermique 125 cc",
+        "price": 1166.583333,
+        "description_short": "<h2>Le Rizzo RS7-3G Platin 125cc : Votre nouveau quad enfant thermique 125 cc de référence</h2>\n<p>Le Rizzo RS7-3G Platin 125cc est bien plus qu’un simple <strong>quad enfant thermique 125 cc</strong> : c’est une véritable fusion entre performance, sécurité et design moderne. Conçu par Nitro Motors, ce modèle se distingue par ses fonctionnalités avancées et ses finitions premium, idéales pour les jeunes pilotes exigeants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 43,
+        "slug": "torino-sport-graffiti-36v-6-quad-electrique-1000w",
+        "name": "Torino Sport Graffiti 36V 6\" - Quad electrique 1000W",
+        "price": 624.916667,
+        "description_short": "<h2>Le Torino Sport 36V 6\" : Quad electrique 1000W, performance et design</h2>\n<p>Le Torino Sport 36V 6\" de Nitro Motors est bien plus qu'un simple quad électrique 1000W. Il incarne la fusion parfaite entre technologie de pointe et design audacieux. Doté d'un moteur électrique puissant de 1000W et d'une batterie 36V 12Ah, ce quad électrique offre une autonomie et une performance exceptionnelles. Son profil sportif et ses fonctionnalités avancées en font un choix idéal pour les amateurs de sensations fortes et de mobilité durable.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 44,
+        "slug": "dusty-btf-xl-quad-electrique-enfant-1200w",
+        "name": "Dusty BTF XL - quad electrique enfant 1200W",
+        "price": 591.583333,
+        "description_short": "<h2>L’excellence sur quatre roues : découvrez le quad électrique enfant 1200W Dusty BTF XL</h2>\n<p>Le Dusty BTF XL est bien plus qu’un simple quad électrique enfant 1200W. C’est un véritable concentré de technologie et de design, conçu pour offrir une expérience de conduite inégalée aux jeunes aventuriers. Avec son moteur puissant de 1200W et ses caractéristiques avancées, ce quad électrique enfant 1200W promet des heures de plaisir en toute sécurité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 45,
+        "slug": "dusty-snowy-profile-l-sport-6-quad-enfant-1000w",
+        "name": "Dusty Snowy-Profile L Sport 6\"\tQuad enfant 1000W",
+        "price": 516.583333,
+        "description_short": "<h2>Pour les vrais passionnés : découvrez le Quad enfant 1000W Dusty Snowy-Profile L Sport 6\" exclusif</h2>\n<p>Le Dusty Snowy-Profile L Sport 6\" est bien plus qu'un simple quad enfant 1000W. Ce modèle, signé Nitro Motors, allie performance, sécurité et design pour offrir une expérience de conduite inoubliable aux jeunes aventuriers. Avec son moteur électrique puissant de 1000W et sa vitesse maximale ajustable en trois niveaux (8 km/h, 15 km/h et 25 km/h), ce quad enfant 1000W s'adapte parfaitement à tous les niveaux de compétence.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 46,
+        "slug": "avenger-snowy-xl-sport-6-48v-quad-enfant-1200w",
+        "name": "Avenger Snowy XL Sport 6\" 48V Quad enfant 1200W",
+        "price": 699.916667,
+        "description_short": "<h2>L’excellence sur quatre roues : découvrez le Quad enfant 1200W Avenger Snowy Tire XL Sport 6\"</h2>\n<p>Le Quad enfant 1200W Avenger Snowy Tire XL Sport 6\" est bien plus qu’un simple jouet. C’est une véritable introduction au monde des quads, alliant sécurité, performance et design. Doté d’un moteur électrique puissant de 1200W et d’une batterie 48V, ce quad pour enfants offre une expérience de conduite fluide et contrôlée, idéale pour les jeunes aventuriers.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 47,
+        "slug": "python-snowy-sport-6-quad-1000w",
+        "name": "Python Snowy Sport 6\" quad 1000W",
+        "price": 491.583333,
+        "description_short": "<h2>Confort, sécurité et performance réunis dans le quad 1000W Python Snowy Sport 6\"</h2>\n<p>Le Python Snowy Sport 6\" est un quad 1000W conçu pour offrir une expérience de conduite exceptionnelle, alliant performance, sécurité et confort. Équipé d'un moteur électrique de 1000W et 36V, ce quad est idéal pour les enfants et les adolescents, offrant une vitesse maximale de 25 km/h, réglable en trois niveaux pour s'adapter à différents niveaux de compétence.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 48,
+        "slug": "python-snowy-sport-6-quad-enfant-49cc",
+        "name": "Python Snowy Sport 6\" Quad enfant 49cc",
+        "price": 333.25,
+        "description_short": "<h2>Découvrez le Quad enfant 49cc ultime pour les jeunes aventuriers</h2>\n<p>Le Python Snowy Sport 6\" de Nitro Motors est le Quad enfant 49cc parfait pour les jeunes passionnés de sensations fortes. Avec son moteur 2 temps de 49cc, ce quad offre une puissance de 2,5 kW et une vitesse maximale de 40 km/h, idéale pour des aventures en toute sécurité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 49,
+        "slug": "python-36v-6-pocket-quad-1000w",
+        "name": "Python 36V 6\" pocket quad 1000w",
+        "price": 583.25,
+        "description_short": "<h2>Le Pocket Quad 1000W Python conçu pour dominer les terrains</h2>\n<p>Le Pocket Quad 1000W Python de Nitro Motors est une véritable révolution dans le monde des mini quads. Conçu pour offrir une performance inégalée et une maniabilité exceptionnelle, ce modèle est idéal pour les amateurs de sensations fortes et les passionnés de sports mécaniques. Avec son moteur électrique de 1000W et sa batterie de 36V, ce pocket quad est prêt à conquérir tous les terrains.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 50,
+        "slug": "replay-cross-1000w-36v-6-mini-quad-electrique",
+        "name": "Replay Cross 1000W 36V 6\" - mini quad electrique",
+        "price": 540.833333,
+        "description_short": "<h2>Découvrez la révolution des mini quad électrique avec le Replay Cross 1000W 36V 6\"</h2>\n<p>Le Replay Cross 1000W 36V 6\" est bien plus qu'un simple mini quad électrique. Il incarne la parfaite combinaison entre performance et technologie, offrant une expérience de conduite inégalée. Ce mini quad électrique est équipé d'un moteur puissant de 1000W et d'une batterie de 36V, garantissant une autonomie et une vitesse optimales pour des aventures palpitantes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 51,
+        "slug": "dusty-vx-cross-6-36v-quad-electrique-enfant-1000w",
+        "name": "Dusty VX Cross 6\" 36V quad electrique enfant 1000w",
+        "price": 558.25,
+        "description_short": "<h2>Explorez la performance ultime avec le quad électrique enfant 1000W Dusty VX Cross 6\"</h2>\n<p>Le Dusty VX Cross 6\" est bien plus qu'un simple quad électrique enfant 1000W. Il incarne la fusion parfaite entre design moderne et performance exceptionnelle. Conçu pour offrir une expérience de conduite inégalée, ce modèle est idéal pour les jeunes aventuriers en quête de sensations fortes tout en garantissant une sécurité optimale.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 52,
+        "slug": "python-sport-49cc-6-quad-thermique-50cc",
+        "name": "Python Sport 49cc 6\" quad thermique 50cc",
+        "price": 308.25,
+        "description_short": "<h2>Le quad thermique 50cc Python Sport 49cc 6\" parfait pour vivre la liberté absolue</h2>\n<p>Découvrez le Python Sport 49cc 6\", un quad thermique 50cc idéal pour les jeunes aventuriers en quête de sensations fortes et de liberté. Ce modèle allie performance, sécurité et design pour offrir une expérience de conduite inoubliable. Conçu par Nitro Motors, ce quad est équipé de caractéristiques techniques avancées qui en font un choix privilégié pour les enfants passionnés de sports mécaniques.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 53,
+        "slug": "acanto-sport-6-1000w-pocket-quad-electrique",
+        "name": "Acanto Sport 6\" 1000W pocket quad electrique",
+        "price": 558.25,
+        "description_short": "<h2>Confort, sécurité et performance réunis dans le pocket quad électrique Acanto Sport 6\" 1000W</h2>\n<p>Le pocket quad électrique Acanto Sport 6\" 1000W de Nitro Motors est la solution idéale pour les jeunes aventuriers en quête de sensations fortes tout en garantissant une sécurité maximale. Ce modèle allie design moderne, performances élevées et fonctionnalités avancées, le rendant parfait pour les enfants passionnés de quad. Découvrez pourquoi ce pocket quad électrique est un choix incontournable pour les parents soucieux de la sécurité et du plaisir de leurs enfants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 54,
+        "slug": "avenger-prm-6-quad-electrique-enfant-1000w",
+        "name": "Avenger PRM 6\" quad electrique enfant 1000w",
+        "price": 599.916667,
+        "description_short": "<h2>Une expérience de conduite unique avec le quad electrique enfant 1000w Avenger PRM 6\"</h2>\n<p>Découvrez le Avenger PRM 6\", un quad electrique enfant 1000w conçu pour offrir une expérience de conduite inégalée. Ce modèle allie performance, sécurité et design pour les jeunes aventuriers. Doté d'un moteur électrique puissant de 1000W, il garantit des sensations fortes tout en restant accessible et sécurisé pour les enfants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 55,
+        "slug": "avenger-prm-6-quad-1200w",
+        "name": "Avenger PRM 6\" quad 1200w",
+        "price": 899.916667,
+        "description_short": "<h2>Laissez-vous séduire par la performance du quad 1200w Avenger PRM 6\"</h2>\n<p>Le quad 1200w Avenger PRM 6\" est un véritable bijou de technologie et de performance. Conçu pour les jeunes aventuriers, ce quad électrique allie puissance, sécurité et confort. Avec son moteur DC de 1200W, il offre une expérience de conduite fluide et dynamique, idéale pour les enfants qui souhaitent explorer leur environnement en toute sécurité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 56,
+        "slug": "anaconda-vx-quad-enfant-electrique-1000w",
+        "name": "Anaconda VX quad enfant electrique 1000w",
+        "price": 591.583333,
+        "description_short": "<h2>Le Quad Enfant Electrique 1000W Anaconda VX : Fusion de Technologie et Tradition</h2>\n<p>Le quad enfant électrique 1000W Anaconda VX de Nitro Motors est bien plus qu'un simple jouet. Il incarne la fusion parfaite entre la technologie moderne et la tradition des véhicules tout-terrain. Doté d'un moteur brushless de 500W et d'une batterie Lithium-ion de 36V 12Ah, ce quad enfant électrique 1000W offre une puissance et une autonomie remarquables, tout en garantissant une sécurité optimale grâce à ses fonctionnalités avancées.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 57,
+        "slug": "veste-enfant-quad-moto-crx",
+        "name": "Veste enfant quad moto CRX",
+        "price": 41.583333,
+        "description_short": "<h2>La veste enfant quad moto CRX : Sécurité, confort et style pour les jeunes pilotes</h2>\n<p>La veste de protection pour enfants CRX est bien plus qu’un simple vêtement. Conçue spécialement pour les jeunes passionnés de quad et de moto, elle allie sécurité, confort et design moderne. Idéale pour les petits aventuriers, cette veste enfant quad moto est un choix incontournable pour garantir une protection optimale tout en permettant aux enfants de profiter pleinement de leurs activités préférées.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 58,
+        "slug": "dustrider-sport-8-1500w-quad-electrique-ado",
+        "name": "Dustrider Sport 8\" 1500W quad electrique ado",
+        "price": 1458.25,
+        "description_short": "<h2>Le Dustrider Sport 8\" 1500W : Innovation, style et performance réunis pour un quad electrique ado</h2>\n<p>Le Dustrider Sport 8\" 1500W est le choix parfait pour les adolescents passionnés de quad electrique ado. Ce modèle allie puissance, sécurité et design moderne, offrant une expérience de conduite inégalée. Équipé d'un moteur brushless de 1500W et d'une batterie de 60V, ce quad electrique ado promet des performances exceptionnelles sur tous les terrains</p>",
+        "image_url": ""
+      },
+      {
+        "id": 59,
+        "slug": "dustrider-sport-8-48v-quad-electrique-enfant-1000w",
+        "name": "Dustrider Sport 8\" 48V quad electrique enfant 1000w",
+        "price": 1249.916667,
+        "description_short": "<h2>Le Dustrider Sport 8\" 48V 1000W : le quad électrique enfant 1000W conçu pour dominer tous les terrains</h2>\n<p>Le Dustrider Sport 8\" 48V 1000W est bien plus qu’un simple quad électrique enfant 1000W. C’est une véritable machine pensée pour offrir une expérience de conduite inégalée, alliant puissance, sécurité et confort. Ce modèle signé Nitro Motors est équipé d’un moteur brushless de 1000W, garantissant des performances optimales et une durabilité exceptionnelle. Idéal pour les jeunes aventuriers, ce quad électrique enfant 1000W est prêt à accompagner vos enfants dans leurs premières expériences tout-terrain.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 60,
+        "slug": "reptile-rs10-cvt-platin-quad-200cc-adulte",
+        "name": "Reptile RS10-CVT Platin quad 200cc adulte",
+        "price": 1891.583333,
+        "description_short": "<h2>Performance et polyvalence réunis dans le quad 200cc adulte Reptile RS10-CVT Platin</h2>\n<p>Le Reptile RS10-CVT Platin 200cc est un quad conçu pour les adultes exigeants. Avec son moteur 4 temps de 200cc et son système de transmission CVT, il offre une performance fluide et réactive, idéale pour les terrains variés. Ce modèle allie confort, sécurité et technologie de pointe, en faisant un choix parfait pour les passionnés de quad 200cc adulte.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 61,
+        "slug": "toronto-rg7-a-sport-quad-125cc",
+        "name": "Toronto RG7-A Sport quad 125cc",
+        "price": 749.916667,
+        "description_short": "<h2>Le quad 125cc Toronto RG7-A Sport qui redéfinit la liberté sur quatre roues</h2>\n<p>Découvrez le Toronto RG7-A Sport, un quad 125cc qui allie performance, sécurité et confort pour les jeunes aventuriers. Ce modèle, signé Nitro Motors, est conçu pour offrir une expérience de conduite inégalée, avec des caractéristiques techniques avancées et des équipements de pointe. Idéal pour les enfants, ce quad 125cc est bien plus qu'un simple engin : c'est une invitation à l'aventure et à la découverte.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 62,
+        "slug": "velocifero-enduro-bike-14-12-moto-cross-electrique-1000w",
+        "name": "Velocifero Enduro Bike 14/12 Moto Cross Electrique 1000W",
+        "price": 1499.916667,
+        "description_short": "<h2>Redécouvrez l'aventure avec la Velocifero Enduro Bike, la Moto Cross Electrique 1000W idéale pour les jeunes pilotes</h2>\n<p>La Velocifero Enduro Bike 14/12 est bien plus qu'une simple moto. C'est une véritable Moto Cross Electrique 1000W conçue pour offrir une expérience de conduite exceptionnelle aux jeunes passionnés de sport et d'aventure. Dotée d'un moteur électrique puissant de 1000W, cette moto délivre une performance impressionnante, avec une vitesse maximale de 50 km/h et une autonomie d'environ 25 km, parfaite pour des sessions d'entraînement ou des balades hors route.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 63,
+        "slug": "lucky-fun-10-1000w-moto-pocket",
+        "name": "Lucky Fun 10\" 1000W moto pocket",
+        "price": 416.583333,
+        "description_short": "<h2>Pour les vrais passionnés : découvrez la Lucky Fun 10\" 1000W, la moto pocket exclusive</h2>\n<p>La Lucky Fun 10\" 1000W de Nitro Motors est bien plus qu'une simple moto pocket. Conçue pour les enfants passionnés de sensations fortes, cette moto électrique allie performance, sécurité et design moderne. Avec son moteur électrique de 1000W et sa batterie de 36V 12Ah, elle offre une expérience de conduite inégalée, tout en restant respectueuse de l'environnement.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 64,
+        "slug": "tiger-deluxe-14-12-moto-electrique-ado",
+        "name": "Tiger DELUXE 14/12 moto electrique ado",
+        "price": 1074.916667,
+        "description_short": "<h2>Pour les vrais passionnés : découvrez la Tiger DELUXE 14/12, la moto électrique ado exclusive</h2>\n<p>La Tiger DELUXE 14/12 est bien plus qu’une simple moto électrique ado. C’est un concentré de technologie et de design, pensé pour offrir une expérience de conduite inégalée. Avec ses lignes épurées et son look sportif, elle ne passe jamais inaperçue. Conçue pour les jeunes passionnés de sensations fortes, cette moto allie performance et sécurité, tout en respectant l’environnement.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 65,
+        "slug": "serval-prm-12-1200w-mini-moto-electrique",
+        "name": "Serval PRM 12\" 1200W mini moto electrique",
+        "price": 849.166667,
+        "description_short": "<h2>La Serval PRM 12\" 1200W : Mini moto électrique Performance et style inégalés</h2>\n<p>La Serval PRM 12\" 1200W est une mini moto électrique conçue pour offrir une expérience de conduite exceptionnelle. Équipée d'un moteur électrique de 1200W et d'une batterie lithium de 48V 15Ah, cette mini moto électrique allie puissance et autonomie. Avec une vitesse maximale de 28 km/h et une autonomie d'environ 15 km, elle est idéale pour les jeunes pilotes à la recherche de sensations fortes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 66,
+        "slug": "rugby-v3-cvt-rs10-platinum-quad-adulte-180cc",
+        "name": "Rugby V3 CVT RS10 Platinum quad adulte 180cc",
+        "price": 1958.25,
+        "description_short": "<h2>Vivez l’expérience tout-terrain avec le Rugby V3 CVT RS10 Platinum 180cc, le quad 180cc adulte ultime</h2>\n<p>Le Rugby V3 CVT RS10 Platinum 180cc est bien plus qu'un simple quad 180cc adulte. Ce modèle signé Nitro Motors allie puissance, confort et technologie de pointe pour offrir une expérience de conduite inégalée. Avec son moteur 4 temps de 180cc, ce quad est conçu pour les amateurs de sensations fortes et les aventuriers exigeants. Découvrez pourquoi ce quad 180cc adulte est un choix incontournable pour vos escapades tout-terrain.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 67,
+        "slug": "tiger-1000w-36v-12-10-dirt-bike-1000w",
+        "name": "Tiger 1000W 36V 12/10 dirt bike 1000W",
+        "price": 716.583333,
+        "description_short": "<h2>Redécouvrez l'aventure avec le nouveau Dirt Bike 1000W Tiger</h2>\n<p>Le Tiger 1000W 36V 12/10\" est bien plus qu'un simple dirt bike électrique. Avec son moteur à aimants de néodyme de 1000W, ce modèle signé Nitro Motors combine puissance, performance et technologie de pointe. Que vous soyez un passionné de cross ou un aventurier en quête de sensations fortes, ce Dirt Bike 1000W est conçu pour vous offrir une expérience de conduite inégalée, tout en respectant l'environnement.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 68,
+        "slug": "rizzo-rs8-a-platinum-quad-atv-125cc",
+        "name": "Rizzo RS8-A Platinum quad ATV 125cc",
+        "price": 1416.583333,
+        "description_short": "<h2>Embarquez pour l’aventure avec le Rizzo RS8-A Platinum, le quad ATV 125cc dernière génération</h2>\n<p>Le Rizzo RS8-A Platinum est bien plus qu'un simple quad ATV 125cc. Conçu pour les enfants, il allie performance, sécurité et design moderne. Avec son moteur 4 temps de 125cc et une puissance de 6kW, il offre une vitesse maximale de 50 km/h, idéale pour les jeunes pilotes en quête de sensations tout en restant en sécurité. Ce modèle de la gamme Platin Line se distingue par ses fonctionnalités avancées et son esthétique soignée, promettant des heures de plaisir et d'aventure.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 69,
+        "slug": "akp-hummer-quad-250cc-cross",
+        "name": "AKP Hummer quad 250cc cross",
+        "price": 1999.916667,
+        "description_short": "<h2>L'AKP Hummer : Un quad 250cc cross concentré de performance et de robustesse</h2>\n<p>L’AKP Hummer est bien plus qu’un simple quad. Avec son moteur 250cc 4 temps, ce quad 250cc cross est conçu pour offrir une expérience de conduite exceptionnelle, alliant puissance et maniabilité. Idéal pour les terrains accidentés, ce modèle de Nitro Motors se distingue par sa fiabilité et ses performances hors route.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 70,
+        "slug": "toronto-sport-8-meilleur-quad-electrique-1000w",
+        "name": "Toronto Sport 8\" meilleur quad electrique 1000w",
+        "price": 1149.916667,
+        "description_short": "<h2>Une expérience de conduite unique avec le meilleur quad electrique 1000w Toronto Sport 8\"</h2>\n<p>Le Toronto Sport 8\" est bien plus qu'un simple quad pour enfants. Équipé d'un moteur électrique brushless de 1000W, il offre une performance exceptionnelle tout en restant écologique. Ce meilleur quad electrique 1000w est conçu pour les jeunes aventuriers, combinant sécurité, confort et technologie de pointe pour une expérience de conduite inégalée.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 71,
+        "slug": "dustrider-rs8-a-sport-quad-125cc-adulte",
+        "name": "Dustrider RS8-A Sport quad 125cc adulte",
+        "price": 1049.916667,
+        "description_short": "<h2>Laissez-vous séduire par la performance du quad 125cc adulte Dustrider RS8-A Sport</h2>\n<p>Le Dustrider RS8-A Sport est bien plus qu'un simple quad 125cc adulte. Conçu pour offrir une expérience de conduite exceptionnelle, ce modèle allie puissance, confort et sécurité. Avec son moteur 125cc à 4 temps et sa transmission automatique avec marche arrière, ce quad est idéal pour les amateurs de sensations fortes comme pour les utilisateurs plus expérimentés. Découvrez ses caractéristiques uniques qui en font un choix incontournable pour les passionnés de quad 125cc adulte.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 72,
+        "slug": "rizzo-rs8-3g-platinum-quad-ado-125cc",
+        "name": "Rizzo RS8-3G Platinum quad ado 125cc",
+        "price": 1141.583333,
+        "description_short": "<h2>Votre compagnon idéal pour l’aventure tout-terrain : le quad ado 125cc Rizzo RS8-3G Platinum</h2>\n<p>Le Rizzo RS8-3G Platinum est bien plus qu’un simple quad ado 125cc. Conçu pour les jeunes aventuriers, ce modèle allie performance, sécurité et design moderne. Avec son moteur 125cc 4 temps refroidi par air, il offre une puissance de 6 kW, idéale pour les balades en tout-terrain ou les escapades en pleine nature. Son look platinium et ses équipements high-tech en font un véritable bijou pour les passionnés.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 73,
+        "slug": "gepard-dlx-10-550w-petite-moto-cross",
+        "name": "Gepard DLX 10\" 550W petite moto cross",
+        "price": 441.583333,
+        "description_short": "<h2>La Gepard DLX 10\" 550W : Innovation, style et performance réunis pour une petite moto cross</h2>\n<p>La Gepard DLX 10\" 550W est une petite moto cross conçue pour offrir une expérience de conduite exceptionnelle aux jeunes pilotes. Avec son moteur électrique de 550W et sa batterie de 24V, cette moto allie puissance et autonomie, tout en étant respectueuse de l'environnement. Dotée de caractéristiques techniques avancées et d'un design robuste, elle est idéale pour les enfants passionnés de sport mécanique.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 74,
+        "slug": "tiger-vx-dlx-14-2000w-60v-lithium-moto-cross-electrique-2000w",
+        "name": "Tiger VX DLX 14\" 2000W 60V Lithium Moto Cross Electrique 2000W",
+        "price": 1166.583333,
+        "description_short": "<h2>Performance, sécurité et innovation réunis dans la Moto Cross Electrique 2000W Tiger VX DLX 14\"</h2>\n<p>La Tiger VX DLX 14\" est bien plus qu'une simple moto cross électrique. Avec son moteur puissant de 2000W et sa batterie lithium de 60V, elle allie performance et durabilité pour offrir une expérience de pilotage inégalée. Conçue pour les amateurs de sensations fortes et les passionnés de technologie, cette moto cross électrique 2000W est idéale pour les terrains accidentés et les pistes exigeantes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 75,
+        "slug": "tiger-vx-dlx-12-moto-cross-electrique-1000w",
+        "name": "Tiger VX DLX 12\" Moto Cross Electrique 1000W",
+        "price": 1058.25,
+        "description_short": "<h2>Votre compagnon idéal pour l’aventure tout-terrain : la Tiger VX DLX 12\" 1000W, la Moto Cross Electrique parfaite</h2>\n<p>La Tiger VX DLX 12\" 1000W est bien plus qu’une simple moto électrique pour enfants. Avec son moteur puissant de 1000W et sa conception robuste, cette Moto Cross Electrique 1000W est conçue pour offrir des sensations fortes et une expérience de conduite inégalée, tout en respectant l’environnement. Plongeons ensemble dans les caractéristiques exceptionnelles de cette machine.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 76,
+        "slug": "tiger-dlx-brushless-lithium-moto-cross-electrique-1300w",
+        "name": "Tiger DLX Brushless Lithium Moto Cross Electrique 1300W",
+        "price": 1016.583333,
+        "description_short": "<h2>La Moto Cross Electrique 1300W Tiger DLX Brushless Lithium ultime pour les amateurs de sensations fortes</h2>\n<p>Découvrez la Moto Cross Electrique 1300W Tiger DLX Brushless Lithium, un bijou de technologie et de performance conçu pour les passionnés de vitesse et d'adrénaline. Avec son moteur brushless de 1300W alimenté par une batterie lithium de 48V 13Ah, cette moto électrique offre une puissance inégalée et une autonomie impressionnante. Que vous soyez un débutant ou un pilote expérimenté, cette moto cross électrique est conçue pour répondre à toutes vos attentes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 77,
+        "slug": "rizzo-rs8-3g-platinum-quad-150cc",
+        "name": "Rizzo RS8-3G Platinum quad 150cc",
+        "price": 1216.583333,
+        "description_short": "<h2>Embarquez pour l’aventure avec le Rizzo RS8-3G Platinum quad 150cc de dernière génération</h2>\n<p>Le Rizzo RS8-3G Platinum est un quad 150cc conçu pour offrir une expérience de conduite exceptionnelle. Avec son moteur 4 temps refroidi par air, ce modèle allie puissance et performance, idéal pour les jeunes aventuriers. Équipé d’un compteur digital, d’un démarreur électrique et de feux LED avant et arrière, ce quad 150cc combine modernité et sécurité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 78,
+        "slug": "quad-250cc-celavi-rs10-platinum",
+        "name": "Quad 250cc Celavi RS10 Platinum",
+        "price": 2049.916667,
+        "description_short": "<h2>Le Quad 250cc Celavi RS10 Platinum : Innovation, style et performance réunis</h2>\n<p>Le Celavi RS10 Platinum est un Quad 250cc qui allie puissance, maniabilité et design moderne. Équipé d'un moteur 4 temps de 250cc, ce quad offre une expérience de conduite exceptionnelle, que vous soyez un amateur de sensations fortes ou un utilisateur régulier. Avec ses caractéristiques techniques avancées et ses équipements haut de gamme, ce quad est conçu pour répondre aux attentes des passionnés de tout-terrain.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 79,
+        "slug": "gazelle-cr-dlx-10-moto-cross-49cc",
+        "name": "Gazelle CR DLX 10\" moto cross 49cc",
+        "price": 283.25,
+        "description_short": "<h2>La Gazelle CR DLX 10\" ultime pour les amateurs de moto cross 49cc</h2>\n<p>La Gazelle CR DLX 10\" est la moto cross 49cc parfaite pour les jeunes pilotes en quête de performances et de sensations fortes. Conçue par Nitro Motors, cette mini dirtbike allie puissance, maniabilité et design épuré, idéale pour les enfants passionnés par le sport mécanique.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 80,
+        "slug": "mini-quad-enfant-1200w-replay-48v-snowy-tire-xl-sport-6",
+        "name": "Mini Quad Enfant 1200W Replay 48V Snowy Tire XL Sport 6\"",
+        "price": 599.916667,
+        "description_short": "<h2>Une expérience de conduite unique avec le mini quad enfant 1200W Replay 1200W 48V Snowy Tire XL Sport 6\"</h2>\n<p>Le Replay 1200W 48V Snowy Tire XL Sport 6\" est bien plus qu'un simple mini quad enfant 1200W. Conçu pour offrir une expérience de conduite inégalée, ce modèle allie performance, sécurité et design moderne. Équipé d'un puissant moteur électrique de 1200W et d'une batterie 48V, il garantit des sensations fortes tout en restant adapté aux jeunes pilotes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 81,
+        "slug": "rocco-rs8-3g-platinum-quad-125-non-homologue",
+        "name": "Rocco RS8-3G Platinum quad 125 non homologue",
+        "price": 1141.583333,
+        "description_short": "<h2>Le Rocco RS8-3G Platinum : Innovation, style et performance réunis pour un quad 125 non homologué</h2>\n<p>Le Rocco RS8-3G Platinum est bien plus qu’un simple quad 125 non homologué. Conçu par NITRO MOTORS, ce modèle allie performance, sécurité et design moderne, le rendant idéal pour les jeunes pilotes en quête de sensations fortes. Avec son moteur 4 temps de 125cc refroidi par air, ce quad offre une puissance de 6kW, permettant d’atteindre une vitesse maximale de 50 km/h, tout en garantissant une conduite fluide grâce à sa transmission semi-automatique avec marche arrière.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 82,
+        "slug": "mini-moto-electrique-1000w-jackal-sport-10",
+        "name": "mini moto électrique 1000W Jackal Sport 10\"",
+        "price": 474.916667,
+        "description_short": "<h2>Redécouvrez l'aventure avec la mini moto électrique 1000W Jackal Sport 10\"</h2>\n<p>La Jackal Sport 10\" est bien plus qu'une simple mini moto électrique 1000W. Conçue pour offrir une expérience de conduite unique, elle allie performance, sécurité et design moderne. Idéale pour les enfants et les adolescents, cette mini moto électrique 1000W est équipée d'un moteur puissant de 1000W, capable de propulser le véhicule à une vitesse maximale de 25 km/h, tout en garantissant une autonomie d'environ 10 km.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 83,
+        "slug": "quad-adulte-125cc-rocco-rs8-a-platinum",
+        "name": "quad adulte 125cc Rocco RS8-A Platinum",
+        "price": 1141.583333,
+        "description_short": "<h2>Le Rocco RS8-A Platinum : Puissance et design pour un quad adulte 125cc</h2>\n<p>Découvrez le Rocco RS8-A Platinum, un quad adulte 125cc alliant performance, confort et sécurité. Ce modèle, conçu par Nitro Motors, est idéal pour les amateurs de sensations fortes tout en garantissant une conduite maîtrisée. Avec son moteur 4 temps monocylindre refroidi par air, ce quad adulte 125cc développe une puissance de 6 kW, offrant une vitesse maximale de 50 km/h, parfait pour les trajets sportifs ou les balades en pleine nature.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 84,
+        "slug": "quad-adulte-150cc-rocco-rs8-3g-platinum",
+        "name": "quad adulte 150cc Rocco RS8-3G Platinum",
+        "price": 1216.583333,
+        "description_short": "<h2>Le Quad Adulte 150cc Rocco RS8-3G Platinum idéal pour conquérir ville et campagne</h2>\n<p>Le Rocco RS8-3G Platinum est un quad adulte 150cc qui allie performance, sécurité et confort. Avec son moteur 150cc 4 temps et son système de refroidissement par air, il offre une puissance de 7,8 kW et une vitesse maximale de 60 km/h. Ce modèle est parfait pour les amateurs de sensations fortes qui souhaitent explorer différents terrains avec style et fiabilité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 85,
+        "slug": "quad-125-neuf-rugby-rs8-a-platin",
+        "name": "quad 125 neuf Rugby RS8-A Platin",
+        "price": 1099.916667,
+        "description_short": "<h2>Le quad 125 neuf Rugby RS8-A Platin conçu pour dominer la route</h2>\n<p>Le Rugby RS8-A Platin est un quad 125 neuf qui allie performance et design. Avec son moteur 125cc 4 temps, ce quad est idéal pour les jeunes aventuriers qui cherchent à explorer de nouveaux terrains tout en profitant d'une conduite fluide et sécurisée. Doté de caractéristiques innovantes et d'un style moderne, ce quad 125 neuf est le compagnon parfait pour des sorties mémorables.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 86,
+        "slug": "rugby-rs8-3g-quad-125cc-semi-automatique",
+        "name": "Rugby RS8-3G quad 125cc semi automatique",
+        "price": 1141.583333,
+        "description_short": "<h2>Le Rugby RS8-3G : Performance et style inégalés pour ce quad 125cc semi automatique</h2>\n<p>Le Rugby RS8-3G de Nitro Motors est un quad 125cc semi automatique qui allie performance, sécurité et design moderne. Conçu pour les jeunes aventuriers, ce modèle de la ligne Platin offre une expérience de conduite fluide et intuitive, grâce à son système semi-automatique avec marche arrière. Doté d’un moteur 4 temps refroidi par air, il développe une puissance de 6 kW pour une vitesse maximale de 50 km/h, idéale pour les débutants ou les pilotes confirmés.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 87,
+        "slug": "quad-200cc-quablo-cvt-rs-platin",
+        "name": "Quad 200cc Quablo CVT RS Platin",
+        "price": 2082.5,
+        "description_short": "<h2>Découvrez le Quablo CVT RS Platin, le quad 200cc pas cher idéal pour les aventuriers</h2>\n<p>Le Quablo CVT RS Platin est bien plus qu'un simple quad. Avec son moteur 200cc performant et ses nombreuses fonctionnalités, ce quad 200cc pas cher est conçu pour offrir une expérience de conduite exceptionnelle. Équipé d'un système de démarrage électrique et d'un démarreur à câble, il garantit une mise en route facile et rapide, même par temps froid.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 88,
+        "slug": "dustrider-rs8-3g-sport-quad-125-non-homologue",
+        "name": "Dustrider RS8-3G Sport quad 125 non homologue",
+        "price": 1058.25,
+        "description_short": "<h2>Redécouvrez le plaisir du tout-terrain avec le Dustrider RS8-3G Sport, un quad 125 non homologué performant</h2>\n<p>Le Dustrider RS8-3G Sport de Nitro Motors est bien plus qu'un simple quad 125 non homologué. Avec son design sportif et ses fonctionnalités avancées, il est conçu pour offrir une expérience de conduite unique et exaltante. Ce modèle allie puissance, confort et sécurité, le tout dans un format compact idéal pour les jeunes pilotes ou les amateurs de sensations fortes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 89,
+        "slug": "quad-electrique-1000w-python-6-sport",
+        "name": "Quad electrique 1000W Python 6\" Sport",
+        "price": 458.25,
+        "description_short": "<h2>Quand performance et innovation se rencontrent : le Quad electrique 1000W Python 6\" Sport</h2>\n<p>Découvrez le Python 6\" Sport, un Quad electrique 1000W qui allie puissance, sécurité et confort. Ce modèle signé Nitro Motors est conçu pour offrir une expérience de conduite inégalée, que vous soyez un passionné de sports mécaniques ou un adepte de balades en plein air.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 90,
+        "slug": "mini-moto-electrique-350w",
+        "name": "Mini Moto Électrique 350W",
+        "price": 249.916667,
+        "description_short": "<h2>Quand puissance et plaisir se rencontrent : la Mini Moto Électrique 350W</h2>\n<p>Découvrez la Mini Moto Électrique 350W, un concentré de technologie et de fun pour les jeunes pilotes en herbe. Avec son design sportif et ses performances impressionnantes, cette mini moto électrique est idéale pour offrir une expérience de conduite unique et sécurisée aux enfants. Plongeons ensemble dans les caractéristiques qui font de ce modèle un incontournable.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 91,
+        "slug": "tricia-cvt-rs10-platinum-quad-adulte-non-homologue",
+        "name": "Tricia CVT RS10 Platinum quad adulte non homologué",
+        "price": 2499.916667,
+        "description_short": "<h2>Vivez l’expérience tout-terrain avec le Tricia CVT RS10 Platinum, un quad adulte non homologué performant</h2>\n<p>Le Tricia CVT RS10 Platinum est bien plus qu’un simple quad adulte non homologué : c’est une machine conçue pour les passionnés de sensations fortes et d’aventures hors des sentiers battus. Avec son moteur 230cc 4-temps refroidi par air, ce quad offre une puissance de 9,3 kW à 7000 tr/min, idéale pour des sorties dynamiques sur tous types de terrains.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 92,
+        "slug": "cooba-prm-6-quad-49cc",
+        "name": "Cooba PRM 6\" quad 49cc",
+        "price": 416.583333,
+        "description_short": "<h2>Le Cooba PRM 6\" : le quad 49cc ultime pour les amateurs de sensations fortes</h2>\n<p>Le Cooba PRM 6\" de Nitro Motors est bien plus qu'un simple quad 49cc pour enfants. C'est une véritable machine conçue pour offrir des sensations fortes tout en garantissant sécurité et performance. Avec son moteur 2 temps refroidi par air de 49cc, ce quad développe une puissance de 1,8 kW, permettant d'atteindre une vitesse maximale de 40 km/h. Mais ce n'est pas tout, ce modèle regorge de fonctionnalités et de détails qui en font un choix incontournable pour les jeunes pilotes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 93,
+        "slug": "gokid-80cc-lifan-buggy-enfant-essence",
+        "name": "GoKid 80cc LIFAN buggy enfant essence",
+        "price": 849.916667,
+        "description_short": "<h2>Puissance, sécurité et plaisir réunis dans le GoKid 80cc LIFAN, le buggy enfant essence idéal</h2>\n<p>Le GoKid 80cc LIFAN est bien plus qu'un simple buggy enfant essence. Conçu pour offrir une expérience de conduite inoubliable, il allie performance, robustesse et sécurité. Équipé d'un moteur 4 temps LIFAN de 80cc, ce modèle garantit une puissance de 1,8 kW et une vitesse maximale de 45 km/h, idéale pour les jeunes aventuriers.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 94,
+        "slug": "buggy-98cc-gokid",
+        "name": "Buggy 98cc Gokid",
+        "price": 883.25,
+        "description_short": "<h2>Confort, sécurité et performance réunis dans le Buggy 98cc Gokid</h2>\n<p>Le Buggy 98cc Gokid est conçu pour offrir une expérience de conduite exceptionnelle aux jeunes aventuriers. Avec son moteur 4 temps de 98cc, ce buggy allie puissance et fiabilité, tout en garantissant une sécurité optimale grâce à ses nombreuses caractéristiques techniques. Découvrez un véhicule pensé pour les enfants, mais avec des performances dignes d'un modèle pour adultes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 95,
+        "slug": "gokart-buggy-125cc",
+        "name": "Gokart Buggy 125cc",
+        "price": 1874.916667,
+        "description_short": "<h2>Le Buggy 125cc conçu pour dominer toutes les routes</h2>\n<p>Découvrez le Buggy Gokart 125cc, un véhicule puissant et polyvalent, idéal pour les amateurs de sensations fortes et les passionnés de conduite tout-terrain. Ce modèle allie performance, confort et sécurité, faisant de chaque sortie une expérience inoubliable.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 96,
+        "slug": "buggy-enfant-gokart-125cc",
+        "name": "Buggy Enfant Gokart 125cc",
+        "price": 1499.916667,
+        "description_short": "<h2>Le Buggy Gokart 125cc conçu pour offrir des sensations uniques aux enfants</h2>\n<p>Découvrez le Buggy Gokart 125cc, un véhicule spécialement conçu pour les enfants en quête d'aventures et de sensations fortes. Ce buggy enfant 125cc allie performance, sécurité et confort, faisant de chaque sortie une expérience inoubliable. Doté d'un moteur puissant de 125cc, ce modèle est idéal pour les jeunes pilotes qui souhaitent explorer les chemins tout en profitant d'une conduite fluide et maîtrisée.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 97,
+        "slug": "buggy-enfant-electrique-gokid-prm-6-1000w",
+        "name": "Buggy Enfant Electrique Gokid PRM 6\" 1000W",
+        "price": 941.583333,
+        "description_short": "<h2>Des aventures épiques attendent votre enfant avec le Buggy Enfant Electrique Gokid PRM 6\" 1000W</h2>\n<p>Le Buggy Enfant Electrique Gokid PRM 6\" 1000W est bien plus qu'un simple jouet. C'est une véritable machine conçue pour offrir des sensations fortes et des moments inoubliables à votre enfant. Avec son moteur puissant de 1000W et ses caractéristiques robustes, ce buggy est parfait pour les jeunes aventuriers qui rêvent de parcourir les terrains les plus exigeants.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 98,
+        "slug": "buggy-48v-savana-vx-sport-2",
+        "name": "Buggy 48V Savana VX Sport 2",
+        "price": 1291.583333,
+        "description_short": "<h2>Le Buggy 48V Savana VX Sport 2 : Performance et style inégalés</h2>\n<p>Découvrez le Buggy 48V Savana VX Sport 2, un véhicule électrique qui allie performance, style et sécurité. Conçu pour les enfants, ce buggy offre une expérience de conduite unique grâce à ses caractéristiques techniques avancées et son design moderne. Que vous soyez un amateur de sports mécaniques ou un parent soucieux de la sécurité de votre enfant, ce buggy est le choix idéal.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 99,
+        "slug": "buggy-nitro-motors-crosser-1000w-36v",
+        "name": "Buggy Nitro Motors CROSSER 1000W 36V",
+        "price": 908.25,
+        "description_short": "<h2>L’alliance parfaite entre performance et design avec le Buggy Nitro Motors CROSSER 1000W 36V</h2>\n<p>Le Buggy Nitro Motors CROSSER 1000W 36V est bien plus qu'un simple jouet pour enfants. C'est un véritable concentré de technologie et de design, conçu pour offrir une expérience de conduite inégalée. Avec son moteur électrique puissant de 1000W et sa batterie 36V, ce buggy garantit des sensations fortes tout en assurant une sécurité optimale pour les jeunes pilotes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 100,
+        "slug": "quad-250-cross-akp-hummer",
+        "name": "quad 250 cross AKP Hummer",
+        "price": 1849.916667,
+        "description_short": "<h2>Pour les vrais passionnés : découvrez le quad 250 cross AKP Hummer exclusif</h2>\n<p>Le quad 250 cross AKP Hummer est bien plus qu'un simple véhicule tout-terrain. C'est une machine conçue pour les amateurs de sensations fortes et les aventuriers exigeants. Avec son moteur 250cc, ce quad offre une puissance et une performance exceptionnelles, idéales pour les terrains les plus difficiles. Doté d'un design robuste et d'équipements de pointe, il est prêt à vous accompagner dans toutes vos escapades offroad.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 101,
+        "slug": "nitro-motors-buggy-racer-prm-6-alm",
+        "name": "Nitro Motors Buggy Racer PRM 6\" ALM",
+        "price": 866.583333,
+        "description_short": "<h2>Faites l’expérience de la puissance avec le Nitro Motors Buggy Racer PRM 6\" ALM</h2>\n<p>Le Nitro Motors Buggy Racer PRM 6\" ALM est bien plus qu'un simple jouet pour enfants. Avec son moteur électrique de 1000W et sa batterie 36V, ce buggy est conçu pour offrir une expérience de conduite excitante et sécurisée. Que ce soit pour des balades en famille ou des aventures dans le jardin, ce modèle allie performance et sécurité pour les jeunes pilotes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 102,
+        "slug": "quad-electrique-adolescent-speedy-1000w-s8-48v",
+        "name": "quad electrique adolescent Speedy 1000W S8 48V",
+        "price": 1099.916667,
+        "description_short": "<h2>Le quad electrique adolescent Speedy 1000W S8 48V qui vous emmène au-delà de vos limites</h2>\n<p>Le Speedy1000W S8 48V est bien plus qu'un simple quad electrique adolescent. Conçu par Nitro Motors, ce modèle allie puissance, confort et sécurité pour offrir une expérience de conduite inégalée. Avec son moteur brushless de 1000W et son système de transmission à différentiel, ce quad est idéal pour les jeunes aventuriers qui cherchent à repousser leurs limites tout en profitant d'une conduite fluide et maîtrisée.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 103,
+        "slug": "mini-buggy-electrique-gokid-dirty-1000w-48v",
+        "name": "mini buggy electrique GoKid Dirty 1000W 48V",
+        "price": 874.916667,
+        "description_short": "<h2>Votre compagnon idéal pour l’aventure des jeunes aventuriers : le mini buggy electrique GoKid Dirty 1000W 48V</h2>\n<p>Le GoKid Dirty 1000W 48V est bien plus qu’un simple jouet. Ce mini buggy electrique est conçu pour offrir une expérience de conduite inégalée aux enfants, tout en garantissant sécurité et performance. Avec son moteur brushless de 1000W 48V, ce modèle est parfait pour les jeunes aventuriers qui souhaitent explorer leur environnement avec style et puissance.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 104,
+        "slug": "savana-v2-prm-buggy-electrique-48v",
+        "name": "Savana V2 PRM buggy électrique 48v",
+        "price": 1299.916667,
+        "description_short": "<h2>Laissez-vous séduire par la performance du Buggy UTV Savana V2 PRM, le buggy électrique 48v idéal pour les enfants</h2>\n<p>Le Buggy UTV Savana V2 PRM est bien plus qu'un simple jouet. Ce buggy électrique 48v allie puissance, sécurité et design moderne pour offrir une expérience de conduite inégalée aux jeunes aventuriers. Avec son moteur brushless de 1200W, il garantit des performances optimales sur tous les terrains, tout en assurant une conduite fluide et silencieuse. Découvrez ses caractéristiques uniques qui en font un choix incontournable pour les amateurs de sensations fortes.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 105,
+        "slug": "buggy-2-places-hunt-650w-36v",
+        "name": "Buggy 2 places Hunt 650W 36V",
+        "price": 1108.25,
+        "description_short": "<h2>Faites l’expérience de l’aventure avec le Buggy Hunt 650W 36V, un buggy 2 places idéal pour les enfants</h2>\n<p>Le Buggy Hunt 650W 36V de Nitro Motors est bien plus qu'un simple jouet. C'est un véritable buggy 2 places conçu pour offrir une expérience de conduite palpitante et sécurisée aux enfants. Avec son moteur électrique brushless de 650W et sa batterie 36V, ce buggy garantit des performances optimales et une autonomie prolongée, idéale pour des sessions de jeu prolongées.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 106,
+        "slug": "celavi-rs10-quad-250-raptor-style",
+        "name": "Celavi RS10 Quad 250 Raptor style",
+        "price": 2124.916667,
+        "description_short": "<h2>Quand puissance et style se rencontrent : le Celavi RS10, le Quad 250 raptor style ultime</h2>\n<p>Le Celavi RS10 est bien plus qu'un simple quad. C'est une fusion parfaite entre performance et design, un véritable Quad 250 raptor style qui ne laisse personne indifférent. Avec son moteur 250cc 4 temps monocylindre et ses 11kW de puissance, ce quad est conçu pour les amateurs de sensations fortes qui recherchent un véhicule capable de dominer tous les terrains.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 107,
+        "slug": "mini-chopper",
+        "name": "Mini Chopper",
+        "price": 333.25,
+        "description_short": "<h2>Le Mini Chopper : Un concentré d’innovation et de puissance</h2>\n<p>Le Mini Chopper de Nitro Motors est bien plus qu’un simple véhicule de loisir. Avec son moteur 2-temps de 49cc, il offre une performance remarquable pour les amateurs de sensations fortes. Idéal pour les terrains accidentés ou les pistes de dirt, ce petit bolide ne manquera pas de surprendre par sa puissance et sa maniabilité.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 108,
+        "slug": "mini-quad-thermique-avenger-prm-6-49cc",
+        "name": "mini quad thermique Avenger PRM 6\" 49cc",
+        "price": 449.916667,
+        "description_short": "<h2>Découvrez le mini quad thermique Avenger PRM 6\" 49cc pour les jeunes aventuriers</h2>\n<p>Le mini quad thermique Avenger PRM 6\" 49cc de Nitro Motors est la solution idéale pour les enfants passionnés d'aventure. Ce modèle allie performances, sécurité et design pour offrir une expérience de conduite inoubliable. Doté d'un moteur 2 temps de 49cc, ce mini quad thermique est parfait pour les jeunes pilotes qui souhaitent découvrir les joies de la conduite tout-terrain.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 109,
+        "slug": "pocket-50cc-rocket-vx-6-sport",
+        "name": "pocket 50cc Rocket VX 6\" Sport",
+        "price": 249.916667,
+        "description_short": "<h2>La Rocket VX 6\" Sport 2 : Innovation, style et performance réunis dans une pocket 50cc</h2>\n<p>La Rocket VX 6\" Sport 2 de Nitro Motors est une pocket 50cc qui allie innovation, design sportif et performance exceptionnelle. Équipée d'un moteur 2-temps de 49cc, cette minibike compacte et puissante est idéale pour les amateurs de sensations fortes. Sa conception ergonomique et ses fonctionnalités avancées en font un choix incontournable pour ceux qui recherchent une pocket 50cc fiable et performante.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 110,
+        "slug": "ressorts-pour-embrayage-de-pocket",
+        "name": "Ressorts pour embrayage de pocket",
+        "price": 7.991667,
+        "description_short": "<h2>Les Ressorts pour embrayage de pocket qui optimisent votre conduite</h2>\n<p>Les Ressorts embrayage pocket sont des composants essentiels pour maintenir l'efficacité et la performance de votre embrayage. Conçus avec précision, ces ressorts garantissent une réponse optimale et une durabilité exceptionnelle, vous permettant de profiter pleinement de chaque trajet. Que vous soyez un passionné de moto, de quad ou de buggy, ces ressorts sont conçus pour répondre à vos besoins spécifiques et améliorer votre expérience de conduite.</p>",
+        "image_url": ""
+      },
+      {
+        "id": 111,
+        "slug": "embrayage-2-branches-racing-pocket",
+        "name": "Embrayage 2 Branches Racing Pocket",
+        "price": 14.916667,
+        "description_short": "<h2>Explorez la performance ultime avec l'Embrayage Pocket 2 Branches Racing</h2>\n<p>L'Embrayage Pocket 2 Branches Racing est conçu pour offrir une performance optimale sur une variété de véhicules de poche. Avec ses deux mâchoires robustes et ses ressorts interchangeables, cet embrayage est idéal pour les passionnés de pocket quad, pocket bike cross, pocket bike course et pocket supermotard. Découvrez comment cet embrayage peut transformer votre expérience de conduite.</p>",
+        "image_url": ""
+      }
+    ]
+  }
+]
