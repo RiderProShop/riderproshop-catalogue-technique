@@ -19,10 +19,9 @@ riderproshop-catalogue-technique/
 │ └── … (tutoriels Markdown)
 └── README.md (index général)
 
-yaml
-Copier le code
+## Guides disponibles
 
----
+- [Le bon quad électrique enfant : comment choisir](guides/le-bon-quad-electrique-enfant-comment-choisir.md)
 
 ## Exemple d’utilisation en JavaScript
 
