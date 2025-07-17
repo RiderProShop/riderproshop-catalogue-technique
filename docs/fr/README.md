@@ -22,6 +22,11 @@ riderproshop-catalogue-technique/
 ## Guides disponibles
 
 - [Le bon quad électrique enfant : comment choisir](guides/le-bon-quad-electrique-enfant-comment-choisir.md)
+- [Moto thermique pour un enfant de 6 ans : comment choisir](guides/moto-thermique-pour-un-enfant-de-6-ans-comment-choisir.md)
+- [Choisir une pocket bike](guides/choisir-une-pocket-bike.md)
+- [Choisir une moto cross pour un enfan](guides/choisir-une-moto-cross-pour-un-enfant.md)
+- [Choisir le bon quad thermique pour un enfant de 3 ans](guides/choisir-le-bon-quad-thermique-pour-un-enfant-de-3-ans.md)
+- [Choisir le bon quad enfant](guides/choisir-le-bon-quad-enfant.md)
 
 ## Exemple d’utilisation en JavaScript
 
